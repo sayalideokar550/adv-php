@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <book>
+    <info>
+      <bno>1</bno>
+      <bname>php</bname>
+      <price>100</price>
+      <aut>nagaraj</aut> 
+    </info> 
+    <info>
+      <bno>2</bno>
+      <bname>c</bname>
+      <price>240</price>
+      <aut>om</aut> 
+    </info> 
+    <info>
+      <bno>3</bno>
+      <bname>c++</bname>
+      <price>210</price>
+      <aut>sai</aut> 
+    </info>
+  </book> 

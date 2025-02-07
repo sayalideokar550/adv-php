@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+   <item>
+      <info class="fy">      
+        <name>om</name>  
+        <price>101</price>
+         <per>66.77</per>
+      </info>
+      <info class="sy">      
+         <rno>102</rno>
+         <name>sai</name>  
+         <per>99.77</per>
+      </info>
+      <info class="ty">      
+         <rno>103</rno>
+         <name>ram</name>  
+         <per>88</per>
+      </info>
+   </item>
